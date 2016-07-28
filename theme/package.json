@@ -1,7 +1,7 @@
 {
   "name": "club",
   "version": "0.0.1",
-  "description": "a place can do everything",
+  "description": " ",
   "locale": "zh-cn",
   "tabs": ["全部", "问答", "分享", "吐槽", "招聘"],
   "dependencies": {
